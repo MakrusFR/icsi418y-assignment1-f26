@@ -10,3 +10,20 @@ body {
     padding: 10px;
     border: 1px solid black;
 }
+
+/* Task Formatting */
+.low { 
+	color: black; 
+} 
+
+.medium { 
+	color: yellow; 
+} 
+
+.high { 
+	color: red; 
+} 
+
+.completed {
+    text-decoration: line-through;
+}
