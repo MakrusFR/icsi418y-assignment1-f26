@@ -1,7 +1,9 @@
-Assignment 1: Task Management - Interactive Web Page - Organization Station (possible names)
+Assignment 1: Task Management
+
 
 
 Marcus Morillo
+
 
 
 ICSI418Y - Software Engineering - Fall 2026
@@ -9,6 +11,7 @@ ICSI418Y - Software Engineering - Fall 2026
 
 
 Description:
+
 
 
 Add and manage tasks
