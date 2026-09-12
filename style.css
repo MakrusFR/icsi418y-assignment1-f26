@@ -1,0 +1,12 @@
+/* body */
+body {
+  background-color: #ace;
+  font-family: Arial;
+  text-align:center;
+}
+
+/* content */
+.content {
+    padding: 10px;
+    border: 1px solid black;
+}
